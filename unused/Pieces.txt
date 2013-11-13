@@ -1,0 +1,27 @@
+Persons:
+1 - RED     - Miss Scarlett
+2 - YELLOW  - Colonel Mustard
+3 - WHITE   - Mrs White
+4 - GREEN   - Reverend Green
+5 - BLUE    - Mrs Peacock
+6 - PURPLE  - Professor Plum
+
+Weapons:
+1 - Candlestick
+2 - Dagger
+3 - Lead pipe
+4 - Revolver
+5 - Rope
+6 - Spanner
+
+Rooms:
+1 - Cellar 
+2 - Ballroom
+3 - Conservatory
+4 - Biliard Room
+5 - Library
+6 - Study
+7 - Hall
+8 - Lounge
+9 - Dining Room
+10 - Kitchen
